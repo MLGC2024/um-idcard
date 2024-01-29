@@ -29,4 +29,9 @@ Config.Licenses = {
       background = '#f9c491',
       prop = 'prop_cs_r_business_card'
    },
+   ['huntinglicense'] = {
+      header = 'Hunting License',
+      background = '#472e2eff',
+      prop = 'p_ld_id_card_002',
+    },
 }
